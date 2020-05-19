@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashBoardFinal/static/css/main.6701cf04.chunk.css",
+    "main.js": "/dashBoardFinal/static/js/main.6b3820fc.chunk.js",
+    "main.js.map": "/dashBoardFinal/static/js/main.6b3820fc.chunk.js.map",
+    "runtime-main.js": "/dashBoardFinal/static/js/runtime-main.9ce58a03.js",
+    "runtime-main.js.map": "/dashBoardFinal/static/js/runtime-main.9ce58a03.js.map",
+    "static/js/2.77ace540.chunk.js": "/dashBoardFinal/static/js/2.77ace540.chunk.js",
+    "static/js/2.77ace540.chunk.js.map": "/dashBoardFinal/static/js/2.77ace540.chunk.js.map",
+    "index.html": "/dashBoardFinal/index.html",
+    "precache-manifest.9b1913ab840216a6c758618389b49b8c.js": "/dashBoardFinal/precache-manifest.9b1913ab840216a6c758618389b49b8c.js",
+    "service-worker.js": "/dashBoardFinal/service-worker.js",
+    "static/css/main.6701cf04.chunk.css.map": "/dashBoardFinal/static/css/main.6701cf04.chunk.css.map",
+    "static/js/2.77ace540.chunk.js.LICENSE.txt": "/dashBoardFinal/static/js/2.77ace540.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dashBoardFinal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce58a03.js",
+    "static/js/2.77ace540.chunk.js",
+    "static/css/main.6701cf04.chunk.css",
+    "static/js/main.6b3820fc.chunk.js"
+  ]
+}
