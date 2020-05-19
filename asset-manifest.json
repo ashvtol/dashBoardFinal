@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dashBoardFinal/static/css/main.68149712.chunk.css",
-    "main.js": "/dashBoardFinal/static/js/main.57c2c689.chunk.js",
-    "main.js.map": "/dashBoardFinal/static/js/main.57c2c689.chunk.js.map",
+    "main.js": "/dashBoardFinal/static/js/main.b0321b7a.chunk.js",
+    "main.js.map": "/dashBoardFinal/static/js/main.b0321b7a.chunk.js.map",
     "runtime-main.js": "/dashBoardFinal/static/js/runtime-main.9ce58a03.js",
     "runtime-main.js.map": "/dashBoardFinal/static/js/runtime-main.9ce58a03.js.map",
     "static/js/2.77ace540.chunk.js": "/dashBoardFinal/static/js/2.77ace540.chunk.js",
     "static/js/2.77ace540.chunk.js.map": "/dashBoardFinal/static/js/2.77ace540.chunk.js.map",
     "index.html": "/dashBoardFinal/index.html",
-    "precache-manifest.e2a1be807d6c3ea5e2f8fc7c3a2b8f62.js": "/dashBoardFinal/precache-manifest.e2a1be807d6c3ea5e2f8fc7c3a2b8f62.js",
+    "precache-manifest.06dc68e5b621983ff9dc4b16cd584fe7.js": "/dashBoardFinal/precache-manifest.06dc68e5b621983ff9dc4b16cd584fe7.js",
     "service-worker.js": "/dashBoardFinal/service-worker.js",
     "static/css/main.68149712.chunk.css.map": "/dashBoardFinal/static/css/main.68149712.chunk.css.map",
     "static/js/2.77ace540.chunk.js.LICENSE.txt": "/dashBoardFinal/static/js/2.77ace540.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9ce58a03.js",
     "static/js/2.77ace540.chunk.js",
     "static/css/main.68149712.chunk.css",
-    "static/js/main.57c2c689.chunk.js"
+    "static/js/main.b0321b7a.chunk.js"
   ]
 }
